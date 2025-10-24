@@ -61,7 +61,7 @@ This made the player cleaner, easier to maintain, and more future-proof.
 
 ---
 
-## Reflection (60–90 seconds)
+## Reflection
 This project taught me how powerful software design patterns can be when refactoring messy code.  
 The trade-off was spending more time structuring interfaces and classes, but the result was worth it because the system became more modular and readable.  
 If I could improve it, I’d add a simple graphical user interface (GUI), better error handling, and real streaming functionality instead of simulated text output.  
